@@ -3,7 +3,6 @@
 
 string [] arraynew = new string [] { "Friend", "Sam", "Bob", "Kate", "Tom", "Alice", "777777" };
 int len = arraynew.Length;
-
 for (int i = 0; i < len; i++)
 {
       int n = arraynew[i].Length;
