@@ -11,4 +11,4 @@ for (int i = 0; i < len; i++)
       {
            Console.Write($"{arraynew[i]}_");
       }
-}init
+}
